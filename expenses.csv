@@ -1,0 +1,83 @@
+date,category,amount,description
+05-01-2025,Food,220,Breakfast at local café
+12-01-2025,Travel,450,Bus ticket to Pune
+18-01-2025,Bills,1200,Electricity bill
+22-01-2025,Entertainment,800,Movie night with friends
+28-01-2025,Others,300,Stationery purchase
+03-02-2025,Food,180,Lunch at office canteen
+09-02-2025,Travel,600,Train ticket to Delhi
+15-02-2025,Bills,950,Internet bill
+21-02-2025,Entertainment,500,OTT subscription
+27-02-2025,Others,700,Gift for colleague
+04-03-2025,Food,250,Dinner outside
+10-03-2025,Travel,200,Auto fare
+16-03-2025,Bills,1500,Mobile recharge + data pack
+22-03-2025,Entertainment,1200,Concert entry
+28-03-2025,Others,1000,Household items
+02-04-2025,Food,300,Lunch with friends
+08-04-2025,Travel,350,Metro card recharge
+14-04-2025,Bills,2000,Rent contribution
+20-04-2025,Entertainment,900,Weekend movie tickets
+26-04-2025,Others,400,Stationery restock
+05-05-2025,Food,220,Snacks at café
+11-05-2025,Travel,500,Cab to airport
+17-05-2025,Bills,1250,Electricity bill
+23-05-2025,Entertainment,750,Game subscription
+29-05-2025,Others,600,Gift for family
+06-06-2025,Food,180,Breakfast at bakery
+12-06-2025,Travel,300,Auto fare
+18-06-2025,Bills,950,Internet bill
+24-06-2025,Entertainment,1100,Concert pass
+30-06-2025,Others,450,Household cleaning items
+04-07-2025,Food,260,Lunch at restaurant
+10-07-2025,Travel,400,Train ticket
+16-07-2025,Bills,1800,Rent contribution
+22-07-2025,Entertainment,600,OTT subscription
+28-07-2025,Others,350,Stationery
+03-08-2025,Food,200,Snacks
+09-08-2025,Travel,550,Cab ride
+15-08-2025,Bills,1200,Electricity bill
+21-08-2025,Entertainment,800,Movie tickets
+27-08-2025,Others,700,Gift for friend
+02-09-2025,Food,300,Dinner outside
+08-09-2025,Travel,250,Auto fare
+14-09-2025,Bills,950,Internet bill
+20-09-2025,Entertainment,1000,Concert entry
+26-09-2025,Others,500,Household items
+05-10-2025,Food,220,Lunch at canteen
+11-10-2025,Travel,450,Bus ticket
+17-10-2025,Bills,1300,Mobile recharge
+23-10-2025,Entertainment,700,OTT subscription
+29-10-2025,Others,600,Gift for colleague
+04-11-2025,Food,250,Breakfast at café
+10-11-2025,Travel,500,Cab fare
+16-11-2025,Bills,2000,Rent contribution
+22-11-2025,Entertainment,900,Movie night
+28-11-2025,Others,400,Stationery
+03-12-2025,Food,180,Snacks
+09-12-2025,Travel,300,Auto fare
+15-12-2025,Bills,950,Internet bill
+21-12-2025,Entertainment,1200,Concert entry
+27-12-2025,Others,1000,Household items
+05-01-2026,Food,220,Lunch at café
+11-01-2026,Travel,450,Bus ticket
+17-01-2026,Bills,1200,Electricity bill
+23-01-2026,Entertainment,800,Movie tickets
+29-01-2026,Others,300,Stationery
+04-02-2026,Food,180,Breakfast
+10-02-2026,Travel,600,Train ticket
+16-02-2026,Bills,950,Internet bill
+22-02-2026,Entertainment,500,OTT subscription
+28-02-2026,Others,700,Gift
+06-03-2026,Food,250,Dinner
+12-03-2026,Travel,200,Auto fare
+18-03-2026,Bills,1500,Mobile recharge
+24-03-2026,Entertainment,1200,Concert
+30-03-2026,Others,1000,Household items
+05-04-2026,Food,300,Lunch
+11-04-2026,Travel,350,Metro card
+17-04-2026,Bills,2000,Rent
+23-04-2026,Entertainment,900,Movie
+29-04-2026,Others,400,Stationery
+12-12-2025,Food,120.0,ate at thirupathi
+29-12-2025,Food,123.0,mehfil

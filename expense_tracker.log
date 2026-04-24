@@ -1,0 +1,12 @@
+2026-04-23 20:34:31,452 - INFO - Added expense: 12-12-2021, Food, 120.0, ate at thirupathi
+2026-04-24 07:31:59,907 - ERROR - Invalid category entered.
+2026-04-24 07:32:40,027 - ERROR - Invalid month/year entered.
+2026-04-24 07:33:58,234 - ERROR - Invalid month/year entered.
+2026-04-24 07:36:58,305 - INFO - Viewed summary for 12-2021: Total=120.0, Highest=Food
+2026-04-24 07:46:24,127 - ERROR - Invalid month/year entered.
+2026-04-24 07:48:01,733 - INFO - Added expense: 29-12-2025, Food, 123.0, mehfil
+2026-04-24 07:48:14,449 - ERROR - Invalid month/year entered.
+2026-04-24 07:51:35,090 - ERROR - Invalid month/year entered.
+2026-04-24 07:52:33,206 - ERROR - Invalid month/year entered.
+2026-04-24 07:53:19,693 - ERROR - Invalid month/year entered.
+2026-04-24 07:56:41,111 - INFO - Viewed summary for 12-2025: Total=3873.0, Highest=Entertainment
